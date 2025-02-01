@@ -1,6 +1,6 @@
 # Projeto de Energia Solar
 
-Este projeto tem como objetivo criar uma plataforma para calcular a quantidade de painéis solares necessários com base no consumo de energia do cliente e nas condições solares locais.
+Este projeto inicialmente tem como objetivo criar uma plataforma para calcular a quantidade de painéis solares necessários com base no consumo de energia do cliente e nas condições solares locais.
 
 ## Funcionalidades
 - Cálculo de número de painéis solares
